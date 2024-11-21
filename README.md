@@ -36,7 +36,7 @@ cd .\Real-Time-Chat-App\server\
 ```
 npm install
 
-
+npm audit fix
 ```
 
 4. Run App on local
@@ -49,8 +49,8 @@ npm run dev
 
 5. Check result
 
-- Check App on local
+- Check App on local, paste on browser this command: 
 
 ```
-localhost 3500
+localhost:3500
 ```
